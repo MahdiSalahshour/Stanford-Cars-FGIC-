@@ -33,7 +33,7 @@ This notebook implements a fine-grained car model classifier on the [Stanford Ca
 ## 1. Environment & Dependencies
 
 ```bash
-pip install torch torchvision efficientnet_pytorch scikit-learn pandas seaborn matplotlib tqdm
+pip install torch torchvision scikit-learn pandas seaborn matplotlib tqdm
 
 
 .PyTorch ≥1.8 with CUDA
