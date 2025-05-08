@@ -14,7 +14,7 @@ This repository contains two core components for end-to-end fine-grained car mod
 
 .
 ├── cropper.py                   # Stand-alone script to crop bounding-box images
-├── Stanford\_Cars\_Classifier.ipynb  # Jupyter notebook for training & evaluation
+├── Stanford_Cars_FGIC_Model.ipynb  # Jupyter notebook for training & evaluation
 └── README.md                    # This file
 
 ````
