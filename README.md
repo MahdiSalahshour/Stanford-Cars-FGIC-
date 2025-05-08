@@ -40,7 +40,5 @@ pip install torch torchvision scikit-learn pandas seaborn matplotlib tqdm
 
 .torchvision for datasets/transforms
 
-.efficientnet_pytorch for backbone weights
-
 .scikit-learn, pandas, seaborn, matplotlib, tqdm for metrics & visualization
 
