@@ -1,6 +1,3 @@
-Thought for a second
-
-
 ```markdown
 # Stanford Cars Fine-Grained Classification & Cropping Toolkit
 
