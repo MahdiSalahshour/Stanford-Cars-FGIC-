@@ -6,11 +6,11 @@ This repository contains two core components for end-to-end fine-grained car mod
 1. **Cropper Script** (`cropper.py`)  
 2. **Classifier Notebook** (`Stanford_Cars_Classifier.ipynb`)  
 
----
+
 
 ## 📂 Repository Structure
 
-```
+
 
 .
 ├── cropper.py                   # Stand-alone script to crop bounding-box images
